@@ -13,7 +13,7 @@ def mark_img(src_file, marks, dst_file):
     # text_width, text_height = draw.textsize(marks, font)
 
     # calculate the x,y coordinates of the text
-    margin = 5
+    margin = 30
     x = margin
     y = margin
 
